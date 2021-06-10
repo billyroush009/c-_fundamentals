@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Billy\\Desktop\\CODE\\C#\\hello_world\\C#.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Billy\\Desktop\\CODE\\C#\\hello_world\\C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Billy\\Desktop\\CODE\\C#\\hello_world\\C#.csproj",
+        "projectName": "C#",
+        "projectPath": "C:\\Users\\Billy\\Desktop\\CODE\\C#\\hello_world\\C#.csproj",
+        "packagesPath": "C:\\Users\\Billy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Billy\\Desktop\\CODE\\C#\\hello_world\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Billy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
